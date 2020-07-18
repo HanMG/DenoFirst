@@ -47,3 +47,11 @@ https://deno.land/
 
 (Window PowerShell) 
 iwr https://deno.land/x/install/install.ps1 -useb | iex
+
+
+6. deno caches 
+
+deno caches remote imports 의 디폴트 위치는
+
+On Windows: %LOCALAPPDATA%/deno (%LOCALAPPDATA% = FOLDERID_LocalAppData)
+
