@@ -1,5 +1,5 @@
 # DenoFirst
-Deno에 대해서 공부해보자...
+Deno에 대해서 공부해보자... (마크가 다이노같아서.. 디노 인줄 알았는데 데노 라고 하는듯?)
 
 1. DENO는 Node 개발자가 만들었음, Node에 사용된 기술이 오래된 기술이 많아서 새로 개발
 
@@ -22,7 +22,7 @@ Deno에 대해서 공부해보자...
 	
 	3. typescript 내장
 
-	4. Top level await ( ?? 잘 모르겠으나 해봐야할듯... )
+	4. Top level await ( ?? 잘 모르겠으나 해봐야알듯... )
 
 	5. 브라우져 호환성 ( fetch 내장 ) 
 	( node는 node-fetch를 install 해야했지만 Deno는 내장 )
